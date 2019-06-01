@@ -48,3 +48,18 @@
         display: none;
     }
 }
+
+#meet-course-divider {
+    max-width: 80%;
+}
+
+.vertical-center {
+    min-height: 100%;
+
+    display: flex;
+    align-items: center;
+}
+
+.bold {
+    font-weight: 800 !important;
+}
